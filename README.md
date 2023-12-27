@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berke çağlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berke çağlar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/berke-çağlar-1310502a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berke çağlar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,10 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkecaglarr&" alt="berkecaglarr" /></p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BerkeCaglarr/BerkeCaglarr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BerkeCaglarr/BerkeCaglarr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BerkeCaglarr/BerkeCaglarr/output/github-contribution-grid-snake.svg">
-</picture>
